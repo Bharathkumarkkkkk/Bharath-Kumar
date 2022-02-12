@@ -8,7 +8,7 @@ else:
      else:
          print('not equal b is big')
 
-Output:
-Enter any number 10
-Enter any number 27
-b is bigger
+Output
+enter a value:24
+enter b value:49
+not equal b is big
